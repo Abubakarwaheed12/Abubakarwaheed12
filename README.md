@@ -2,7 +2,7 @@ Hi there, I'm Abu Bakar Waheed
 My GitHub Visitors
 
 
-I'm a Full Stack Wordpress Developer !!
+I'm a Full Stack Python Django and Php Wordpress Developer !!
 
 Here are some ideas to get you started:
 
